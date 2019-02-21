@@ -5,7 +5,7 @@ return number1 + number2;
 
 // Front End Logic
 $(document).ready(function() {
-  $("div#click").submit(function() {
+  $("form#questions").submit(function() {
 //    var number1 = parseInt($("#sword").val());
 //    var number2 = parseInt($("#powers").val());
 //    var number3 = parseInt($("#brains").val());
